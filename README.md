@@ -16,8 +16,22 @@ index_html = """
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="index.html">Início</a></li>
-                <li class="nav-item"><a class="nav-link" href="pages/sobre.html">Sobre Nós</a></li>
-                <li class="nav-item"><a class="nav-link" href="pages/servicos.html">Serviços</a></li>
+                <li class="nav-item"><a class="nav-link" href="pages/sobre.html">Sobre Nós</a></Somos uma empresa jovem e dinâmica, com experiência sólida em eventos corporativos, diplomáticos, académicos e institucionais. Acreditamos que o sucesso de um evento está nos detalhes, no profissionalismo e no respeito às normas protocolares.
+[CSS.txt](https://github.com/user-attachments/files/21772070/CSS.txt)
+
+
+Missão: Garantir excelência, sofisticação e organização em todos os eventos que coordenamos.
+
+Visão: Ser a principal referência nacional e internacional em Cerimonial e Protocolo.
+
+Valores: Rigor | Discrição | Inovação | Profissionalismo | Elegância
+
+i>
+                <li class="nav-item"><a class="nav-link" href="pages/servicos.html">Serviços</a✔ Cerimonial e Protocolo Oficial  
+✔ Gestão de Eventos Corporativos e Académicos  
+✔ Formação em Cerimonial e Etiqueta  
+✔ Consultoria em Protocolo Empresarial  
+✔ Organização de Conferências e Congressos></li>
                 <li class="nav-item"><a class="nav-link" href="pages/galeria.html">Galeria</a></li>
                 <li class="nav-item"><a class="nav-link" href="pages/contactos.html">Contactos</a></li>
             </ul>
